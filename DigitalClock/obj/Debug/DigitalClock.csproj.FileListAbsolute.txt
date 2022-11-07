@@ -1,0 +1,10 @@
+D:\Programozas\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+D:\Programozas\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+D:\Programozas\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+D:\Programozas\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.AssemblyReference.cache
+D:\Programozas\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+D:\Programozas\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+D:\Programozas\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+D:\Programozas\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+D:\Programozas\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+D:\Programozas\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
